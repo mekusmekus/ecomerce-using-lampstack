@@ -1,1 +1,1 @@
-# ecomerce-using-lampstack
+# ecommmerce website using lampstack
